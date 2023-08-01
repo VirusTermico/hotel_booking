@@ -1,0 +1,22 @@
+export default{
+    WELCOME1:require("../assets/images/first.png"),
+    WELCOME2:require("../assets/images/second.png"),
+    WELCOME3:require("../assets/images/third.png"),
+    DELUX:require("../assets/images/delux.jpg"),
+    SUITE:require("../assets/images/suite.jpg"),
+    NORMAL:require("../assets/images/normal.jpg"),
+    MONARCH:require("../assets/images/monarch.jpg"),
+    HOTEL1:require("../assets/images/hotel1.jpg"),
+    HOTEL2:require("../assets/images/hotel2.jpg"),
+    HOTEL3:require("../assets/images/hotel3.jpg"),
+    HOTEL4:require("../assets/images/hotel4.jpg"),
+    LOGO:require("../assets/icon.png"),
+    CARD:require("../assets/images/card.png"),
+    SIM:require("../assets/images/visa.png"),
+    PAYPAL:require("../assets/images/paypal.png"),
+    MASTECARD:require("../assets/images/mastercard.png"),
+    CHECK_OFF:require("../assets/images/check_off.png"),
+    CHECK_ON:require("../assets/images/check_on.png"),
+    CHECK_CIRCLE:require("../assets/images/check_circle.png"),
+
+}
